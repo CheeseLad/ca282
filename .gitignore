@@ -1,2 +1,10 @@
 *.docx
 *.txt
+*.zip
+apt
+init.d
+python
+service
+test
+fstab
+passwd
