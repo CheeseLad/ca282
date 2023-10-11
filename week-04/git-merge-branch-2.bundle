@@ -1,0 +1,22 @@
+git bundle:
+  git-merge-branch-2.bundle 4.0K
+
+branches:
+* master                  59dce0e fixed Merge branch 'merge-me'
+  remotes/origin/HEAD     -> origin/master
+  remotes/origin/master   59dce0e fixed Merge branch 'merge-me'
+  remotes/origin/merge-me bb98d27 Add line to b.txt in merge-me.
+
+files:
+  ./README.txt
+  ./a.txt
+  ./b.txt
+
+log (max 50 lines):
+  59dce0e fixed Merge branch 'merge-me'
+  bb98d27 Add line to b.txt in merge-me.
+  5d91f83 Add line to b.txt in master.
+  2f94d20 Update README.txt for the next task.
+  fea7b89 Extend a.txt with a new date.
+  7d70488 Add README.txt.
+  7bfae7e Add initial files.

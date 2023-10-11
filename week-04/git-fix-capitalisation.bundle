@@ -1,0 +1,16 @@
+git bundle:
+  git-fix-capitalisation.bundle 4.0K
+
+branches:
+* master                95706a6 fixed capitalisation
+  remotes/origin/HEAD   -> origin/master
+  remotes/origin/master 95706a6 fixed capitalisation
+
+files:
+  ./README.txt
+  ./mary.txt
+
+log (max 50 lines):
+  95706a6 fixed capitalisation
+  f431388 Add Mary had a Little Lamb.
+  4ac27f2 Add README.txt.

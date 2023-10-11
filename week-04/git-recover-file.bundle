@@ -1,0 +1,16 @@
+git bundle:
+  git-recover-file.bundle 32K
+
+branches:
+* master                44d51d4 Revert "Accidentally remove PDF file."
+  remotes/origin/HEAD   -> origin/master
+  remotes/origin/master 44d51d4 Revert "Accidentally remove PDF file."
+
+files:
+  ./README.txt
+  ./nobody.pdf
+
+log (max 50 lines):
+  44d51d4 Revert "Accidentally remove PDF file."
+  058a8e7 Accidentally remove PDF file.
+  996ac42 Initial revision.

@@ -1,0 +1,16 @@
+git bundle:
+  git-rpn-calculator.bundle 4.0K
+
+branches:
+* master                f4af448 fixed rpn
+  remotes/origin/HEAD   -> origin/master
+  remotes/origin/master f4af448 fixed rpn
+
+files:
+  ./.gitignore
+  ./Makefile
+  ./rpn.c
+
+log (max 50 lines):
+  f4af448 fixed rpn
+  09145a6 Initial revision.

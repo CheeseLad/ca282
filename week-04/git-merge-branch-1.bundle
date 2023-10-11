@@ -1,0 +1,18 @@
+git bundle:
+  git-merge-branch-1.bundle 4.0K
+
+branches:
+* master                  fea7b89 Extend a.txt with a new date.
+  remotes/origin/HEAD     -> origin/master
+  remotes/origin/master   fea7b89 Extend a.txt with a new date.
+  remotes/origin/merge-me fea7b89 Extend a.txt with a new date.
+
+files:
+  ./README.txt
+  ./a.txt
+  ./b.txt
+
+log (max 50 lines):
+  fea7b89 Extend a.txt with a new date.
+  7d70488 Add README.txt.
+  7bfae7e Add initial files.

@@ -1,0 +1,44 @@
+git bundle:
+  git-move-files.bundle 8.0K
+
+branches:
+* master                a4cc537 moved files
+  remotes/origin/HEAD   -> origin/master
+  remotes/origin/master a4cc537 moved files
+
+files:
+  ./README.txt
+  ./b/.gitkeep
+  ./b/a.txt
+  ./b/b.txt
+  ./b/c.txt
+  ./b/d.txt
+  ./b/e.txt
+  ./b/f.txt
+  ./b/g.txt
+  ./b/h.txt
+  ./b/i.txt
+  ./b/j.txt
+  ./b/k.txt
+  ./b/l.txt
+  ./b/m.txt
+  ./b/n.txt
+  ./b/o.txt
+  ./b/p.txt
+  ./b/q.txt
+  ./b/r.txt
+  ./b/s.txt
+  ./b/t.txt
+  ./b/u.txt
+  ./b/v.txt
+  ./b/w.txt
+  ./b/x.txt
+  ./b/y.txt
+  ./b/z.txt
+
+log (max 50 lines):
+  a4cc537 moved files
+  2f40919 Add README.txt.
+  ce52cae Rewrite some of the txt files.
+  781f645 Rewrite all of the txt files.
+  b1f4145 Initial commit.
